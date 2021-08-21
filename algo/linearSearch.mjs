@@ -6,7 +6,7 @@ export class LinearSearch {
 
         this.linearSearch(el, arr);
     }
-// ce que j'ai fait
+// ma solution
      linearSearch(searched, arr) {  
         let index;
          for(let i = 0; i < arr.length; i++){
